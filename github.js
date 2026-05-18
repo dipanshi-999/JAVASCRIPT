@@ -102,3 +102,4 @@ searchBtn.addEventListener(
     fetchProfile
 
 );
+
